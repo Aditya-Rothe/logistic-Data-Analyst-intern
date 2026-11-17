@@ -1,0 +1,6 @@
+weight_category,item_count,average_weight_g,average_freight
+0-500 g,47478,265.99,15.23
+500 g-1 kg,20494,736.17,17.15
+1-5 kg,30760,2064.95,20.28
+5-10 kg,8596,7209.53,30.68
+Above 10 kg,5296,15598.14,54.62
