@@ -1,0 +1,32 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Raw datasets - download separately from Kaggle
+data/raw/*
+!data/raw/.gitkeep
+
+# Processed datasets - generated locally
+data/processed/*
+!data/processed/.gitkeep
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
