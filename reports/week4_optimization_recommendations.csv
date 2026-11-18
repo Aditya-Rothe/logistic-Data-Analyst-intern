@@ -1,0 +1,6 @@
+area,finding,recommendation,expected_benefit
+Regional Monitoring,Higher prediction errors in selected states,"Prioritize monitoring in PA, PE, BA and PB",Earlier identification of potentially delayed deliveries
+Exception Management,Some orders have prediction errors above 10 days,Investigate unusually delayed orders and establish an exception alert process,Improved visibility of delivery disruptions
+Model Monitoring,Prediction performance changes across months,Monitor monthly MAE and retrain when performance deteriorates,Better adaptation to changing delivery patterns
+Data Collection,Current dataset lacks route and operational information,"Collect GPS, dispatch, distance, carrier, traffic and warehouse data",More detailed future logistics analysis
+Capacity Planning,Historical order and delivery patterns vary over time,Use order-volume trends to support staffing and workload planning,Better-informed resource allocation
